@@ -1,0 +1,21 @@
+[
+    {
+        "full_name": "SuryaPrakash K",
+        "email": "k.suryaprakash5522@gmail.com",
+        "phone": "9787118882",
+        "experience_years": 4,
+        "desired_position": "Artificial Intelligence and Machine Learning",
+        "location": "Bangalore or Remote",
+        "tech_stack": [
+            "Python",
+            "Pandas",
+            "Pytorch",
+            "Numpy",
+            "Langchain",
+            "HuggingFace",
+            "Ollama",
+            "RAG",
+            "MCP"
+        ]
+    }
+]
