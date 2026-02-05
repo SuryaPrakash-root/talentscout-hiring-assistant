@@ -12,7 +12,7 @@ model = None
 if api_key and api_key != "your_api_key_here":
     try:
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-flash-latest", system_instruction=SYSTEM_PROMPT)
+        model = genai.GenerativeModel("gemini-2.0-flash", system_instruction=SYSTEM_PROMPT)
     except Exception as e:
         print(f"Failed to initialize Gemini model: {e}")
 
